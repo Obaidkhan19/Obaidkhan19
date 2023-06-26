@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **flutter | .NET | Linux | Cyber Security | Cloud**
+- 💬 Ask me about **Flutter | .NET | Linux | Cyber Security | Cloud**
 
 - 📫 How to reach me **ukahn19@gmail.com**
 
