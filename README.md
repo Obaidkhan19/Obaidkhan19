@@ -1,32 +1,125 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Obaid%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20Application%20Development&descSize=16&descAlignY=60" width="100%"/>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Obaid</h1>
-<h3 align="center">⚙️ DevOps Engineer · ☁️ Cloud Infrastructure · 🔧 Application Development</h3>
-
-
-<p align="left"> <img alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidkhan19&label=Profile%20views&color=0e75b6&style=flat" alt="obaidkhan19" /> </p>
-
-
-
-- 💬 Ask me about **Flutter | .NET | Linux | DevOps**
-
-- 📫 How to reach me **ukahn19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/Obaidkhan19">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+automated+CI%2FCD+pipelines+%F0%9F%9A%80;Shipping+secure+containers+with+Docker+%26+Kubernetes+%F0%9F%90%B3;Infrastructure+as+Code+with+Terraform+%26+Ansible+%E2%9A%99%EF%B8%8F;DevSecOps%3A+Security+built+into+every+stage+%F0%9F%94%90" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<!--   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> -->
-  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">⚙️ DevOps Engineer · ☁️ Cloud Infrastructure · 🔧 Application Development</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaidkhan19&show_icons=true&locale=en&layout=compact" alt="obaidkhan19" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadobaidkhan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ukahn19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Obaidkhan19&label=Profile%20Views&color=00b4d8&style=for-the-badge"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaidkhan19&show_icons=true&locale=en" alt="obaidkhan19" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidkhan19&" alt="obaidkhan19" /></p>
+## 👋 About Me
+
+- ⚙️ **DevOps first**: I automate, containerize, secure, and monitor applications from commit to production
+- 🔄 I build **CI/CD pipelines** with security checks built in (DevSecOps)
+- 🏗️ I manage infrastructure as code with **Terraform** and **Ansible**
+- 💻 I also build apps with **.NET** and **Flutter**, so I understand both sides of the pipeline
+- 📚 Always learning, always shipping
+- 💬 Ask me about **DevOps | Linux | .NET | Flutter**
+- 📫 Reach me at **ukahn19@gmail.com**
+
+---
+
+## 🚀 DevOps Toolbox
+
+### 🔄 CI/CD & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins" />
+</p>
+
+`Git & GitHub` · `GitHub Actions` · `Jenkins` · `CI/CD Pipelines` · `Automated Testing`
+
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argocd" />
+</p>
+
+`Docker` · `Kubernetes` · `Helm` · `Argo CD (GitOps)`
+
+### 🔐 DevSecOps & Code Quality
+<p>
+  <img src="https://img.shields.io/badge/DevSecOps-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+</p>
+
+`SAST` · `DAST` · `SonarCloud / SonarQube` · `Trivy` · `Security Scanning in Pipelines`
+
+### 🏗️ Infrastructure as Code & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" />
+</p>
+
+`Terraform` · `Ansible` · `AWS`
+
+### 📊 Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+`Prometheus` · `Grafana`
+
+### 🐧 Operating Systems & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,python,cs,mysql" />
+</p>
+
+`Linux (Ubuntu)` · `Windows` · `Bash` · `Python` · `C#` · `SQL`
+
+---
+
+## 💻 Application Development
+
+### 🟣 .NET / Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql" />
+</p>
+
+`C#` · `ASP.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core` · `LINQ` · `RESTful APIs` · `SQL Server` · `Database Design` · `Authentication & Authorization` · `Dependency Injection` · `Middleware` · `CRUD Operations`
+
+### 📱 Flutter / Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+`Flutter` · `Dart` · `Cross-platform Mobile Apps` · `REST API Integration` · `JSON` · `State Management` · `Firebase` · `UI Development`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | Focus |
+|---|---|---|
+| 🏥 **Multi-Hospital Management System** | ASP.NET Core · SQL Server · Kubernetes · GitHub Actions · Terraform · Ansible | End-to-end DevOps practice project |
+| 🐳 [**Dockerized Notes App**](https://github.com/Obaidkhan19/Dockerized-Notes-Application-with-Nginx) | Python · Node.js · React · Docker · Nginx | Containerized full-stack app with Nginx |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Obaidkhan19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaidkhan19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obaidkhan19&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Automate everything. Secure everything. Monitor everything."</i> 🚀
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
