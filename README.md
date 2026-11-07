@@ -31,7 +31,7 @@ I'm looking for **entry-level roles** in:
 
 - ⚙️ **DevOps Engineering**: CI/CD · Docker · Kubernetes · Infrastructure as Code
 - ☁️ **Cloud Engineering**: AWS · Terraform · Infrastructure Automation
-- 🧩 **Application Development** *(secondary focus)*: .NET · Flutter
+- 🧩 **Application Development**: .NET · Flutter
 
 📩 Email: [ukahn19@gmail.com](mailto:ukahn19@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammadobaidkhan/)
 
@@ -111,17 +111,6 @@ flowchart LR
 <p><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /></p>
 
 `Flutter` · `Dart` · `Cross-platform Mobile Apps` · `REST API Integration` · `JSON` · `State Management` · `Firebase` · `UI Development`
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Obaidkhan19/Obaidkhan19/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Obaidkhan19/Obaidkhan19/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
