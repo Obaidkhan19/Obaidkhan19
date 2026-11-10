@@ -80,7 +80,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
 </p>
 
-`SAST` · `DAST` · `SonarCloud / SonarQube` · `Trivy` · `Security Scanning in Pipelines`
+`SAST` · `DAST` · `SonarCloud` · `Trivy` · `Security Scanning in Pipelines`
 
 ### 🏗️ Infrastructure as Code & Cloud
 <p><img src="https://skillicons.dev/icons?i=terraform,ansible,aws" /></p>
