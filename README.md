@@ -30,7 +30,7 @@
 I'm looking for **entry-level roles** in:
 
 - ⚙️ **DevOps Engineering**: CI/CD · Docker · Kubernetes · Infrastructure as Code
-- ☁️ **Cloud Engineering**: AWS · Terraform · Infrastructure Automation
+- ☁️ **Cloud Engineering**: Azure · AWS · Terraform · Infrastructure Automation
 - 🧩 **Application Development**: .NET · Flutter
 
 📩 Email: [ukahn19@gmail.com](mailto:ukahn19@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammadobaidkhan/)
@@ -41,7 +41,7 @@ I'm looking for **entry-level roles** in:
 
 - 🐳 Packaging applications in **Docker** and running them on **Kubernetes**
 - 🔁 Creating **CI/CD pipelines** with **Jenkins** and **GitHub Actions**, with automated tests and security scans
-- ☁️ Provisioning **AWS** infrastructure with **Terraform**
+- ☁️ Provisioning **Azure** **AWS** infrastructure with **Terraform**
 - 📊 Setting up monitoring and alerting with **Prometheus** and **Grafana**
 
 ---
@@ -83,7 +83,7 @@ flowchart LR
 `SAST` · `DAST` · `SonarCloud` · `Trivy` · `Security Scanning in Pipelines`
 
 ### 🏗️ Infrastructure as Code & Cloud
-<p><img src="https://skillicons.dev/icons?i=terraform,ansible,aws" /></p>
+<p><img src="https://skillicons.dev/icons?i=terraform,ansible,azure,aws" /></p>
 
 `Terraform` · `Ansible` · `AWS`
 
